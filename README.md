@@ -20,9 +20,9 @@ Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell
 
 
 Server Manager Installs and configurations 
-DHCP
-RAS/NAT
-DNS
+1. DHCP
+2. RAS/NAT
+3. DNS
 
 ![Server Managers installs](https://github.com/Dmoore125/HOMELAB--RUNNING-ACTIVE-DIRECTORY-/assets/162640561/e41e6691-7f5d-4944-b11a-67747d455b4f)
 
