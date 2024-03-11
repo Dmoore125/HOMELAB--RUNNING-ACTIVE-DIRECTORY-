@@ -1,4 +1,4 @@
-# HOMELAB--RUNNING-ACTIVE-DIRECTORY-
+# HOMELAB--RUNNING-ACTIVE-DIRECTORY
 Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell
 <h1></h1>
 
