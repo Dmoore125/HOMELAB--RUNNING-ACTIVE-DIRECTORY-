@@ -10,7 +10,10 @@ Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell
 
 
 
-<h2> my Static IP config for my internal NIC, Internet NIC works as a DHCP and did not need to be touched</h2>
+
+
+
+<h2> My Static IP config for my internal NIC, Internet NIC works as a DHCP and did not need to be touched</h2>
 
 ![Network settings for NICs](https://github.com/Dmoore125/HOMELAB--RUNNING-ACTIVE-DIRECTORY-/assets/162640561/b34287d7-4f70-43ef-bfbb-2447e4fb8515)
 
