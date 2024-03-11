@@ -57,13 +57,13 @@ Domain join and PC name change on Windows 10 Client to finish the Project.
 </p>
 
  ### Steps of Project
-1. Get our Windows Server 2019 VM up and running on Oracle VirtualBox;
-2. Set up our domain controller (setting up network adapters, assigning an IP address, installing Active Directory Domain Services, promoting the server to a domain controller and setting up a domain admin account);
-3. Install and configure our remote access server (RAS) and network address translation (NAT);
-4. Install and configure our dynamic host configuration protocol (DHCP);
-5. Use a custom Powershell script to create 1,000 users for our domain;
-6. Create a Windows 10 Enterprise VM, rename it and join the domain
-7. Verify that our login credentials work.
+1. Start Windows Server 2019 VM up and running on Oracle VirtualBox;
+2. Set up domain controller,network adapters, assigning appropiate IP address, install Active Directory Domain Services, promote server to a domain controller, and finally set up a domain admin account.
+3. Install and configure the RAS and NAT.
+4. Install and configure DHCP scope.
+5. Use costum Powershell script to create 1,000 users for our domain.
+6. Create a Windows 10 client VM, rename it and join to Mydomain.com
+7. Verify you are on domain by signing into it with user accounts.
 
 
 
