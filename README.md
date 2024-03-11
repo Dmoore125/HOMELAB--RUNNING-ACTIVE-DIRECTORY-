@@ -42,7 +42,7 @@ These are my two VM's I created using Oracle Virtual BOX
 
   
 
-<h2>IP configurations on Windows 10 after creating VM VM</h2> 
+<h2>IP configurations on Windows 10 after creating windows 10 VM</h2> 
 
 ![IPCONFIG ON WINDOWS 10 VM](https://github.com/Dmoore125/HOMELAB--RUNNING-ACTIVE-DIRECTORY-/assets/162640561/3b1f0289-74a2-4402-b904-83d007bb66b4)
 
