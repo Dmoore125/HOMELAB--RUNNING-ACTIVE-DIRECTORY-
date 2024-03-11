@@ -49,7 +49,7 @@ These are my two VM's I created using Oracle Virtual BOX
 
 
 
-Domain join and PC name change to finish the Project.
+Domain join and PC name change on Windows 10 Client to finish the Project.
 
 ![image](https://github.com/Dmoore125/HOMELAB--RUNNING-ACTIVE-DIRECTORY-/assets/162640561/dc98f61f-17cf-45ad-84fe-0f87e2ce337f)
 
@@ -66,7 +66,6 @@ Domain join and PC name change to finish the Project.
 7. Verify that our login credentials work.
 
 
-</p>
 
 
 <!--
